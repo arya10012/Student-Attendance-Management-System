@@ -15,7 +15,6 @@ This PHP attendance system project is primarily concerned with dealing with stud
 #
 ![Admin dashboard](./img/admin_page.png)
 #
-![Teacher Dashboard](./img/![Screenshot 2025-03-05 203423](https://github.com/user-attachments/assets/570ed6ba-c74e-43e4-867f-3dffb3e42cf4)
-.png)
+(./img/![Screenshot 2025-03-05 203423](https://github.com/user-attachments/assets/570ed6ba-c74e-43e4-867f-3dffb3e42cf4)
 
 
