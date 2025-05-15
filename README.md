@@ -25,10 +25,13 @@ This PHP attendance system project is primarily concerned with dealing with stud
 #
 ![Screenshot 2025-03-05 203305](https://github.com/user-attachments/assets/4dcb7f39-9c6a-4c18-b03f-9940f9a703ed)
 #
+![Screenshot 2025-03-05 203423](https://github.com/user-attachments/assets/570ed6ba-c74e-43e4-867f-3dffb3e42cf4)
+#
 ![Screenshot 2025-03-05 203458](https://github.com/user-attachments/assets/810894bb-d5c0-40ee-ab8f-aaf4e79465e0)
-
 #
 ![Screenshot 2025-03-05 203547](https://github.com/user-attachments/assets/1b1332ea-a6df-4b5b-b566-5a4589264497)
 #
+![Screenshot 2025-03-05 203712](https://github.com/user-attachments/assets/5dec6277-e516-424c-b7fe-42ee3f4dd161)
+
 
 
