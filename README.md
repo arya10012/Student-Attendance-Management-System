@@ -12,4 +12,6 @@ This PHP attendance system project is primarily concerned with dealing with stud
 
 #
 ![Index page](./img/index.png)
+#
+![Admin dashboard](./img/admin_page.png)
 
